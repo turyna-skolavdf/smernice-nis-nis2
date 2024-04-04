@@ -8,15 +8,12 @@ napříč všemi členskými státy v organizacích.
 - [Srovnání NIS a NIS 2](#srovnání-nis-a-nis-2)
 
 ## Subjekty podřízené směrnicí NIS a NIS 2
-- Operátorů základních služeb (OES)
-- Poskytovatelů klíčových digitálních služeb (DSPs)
-- Subjektů mimo EU poskytujících služby v EU
-- Sektorů důležitých pro ekonomiku a společnost, jako je energetika, doprava, zdravotnictví a digitální infrastruktura
-- Středních a velkých společností v těchto sektorech
-- Eliminuje rozdíl mezi OES a DSPs
-- Vylučuje oblasti jako obrana, národní bezpečnost, právo, soudnictví
-- Parlamenty a centrální banky jsou vyloučeny
-- Rozšiřuje se na další sektory, jako je digitální infrastruktura, odpadní vody a odpadní hospodářství, výroba kritických produktů, potraviny, kosmické služby, poštovní a kurýrní služby, veřejná správa 5.
+- Operátory základních služeb (OES)
+- Poskytovatelé klíčových digitálních služeb (DSPs)
+- Subjekty mimo EU poskytující služby v EU
+- Sektory důležité pro ekonomiku a společnost, jako energetika, doprava, zdravotnictví, digitální infrastruktura
+- Střední a velké společnosti v těchto sektorech
+- Sektory rozšířené v NIS2, jako digitální infrastruktura, odpadní vody a odpadní hospodářství, výroba kritických produktů, potraviny, kosmické služby, poštovní a kurýrní - -- služby, veřejná správa
 
 ## Původní verze NIS
 Původní verze NIS vstoupila v platnost 6. července 2016 a zaměřovala na zajištění vysoké společné úrovně kybernetické bezpečnosti v celé Evropské unii 
