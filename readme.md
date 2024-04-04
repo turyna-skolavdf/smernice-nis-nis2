@@ -7,7 +7,7 @@ napříč všemi členskými státy v organizacích.
 - [NIS 2](#nis-2)
 - [Srovnání NIS a NIS 2](#srovnani-nis-a-nis-2)
 
-### Subjekty podřízené směrnicí NIS a NIS 2
+## Subjekty podřízené směrnicí NIS a NIS 2
 - Operátorů základních služeb (OES)
 - Poskytovatelů klíčových digitálních služeb (DSPs)
 - Subjektů mimo EU poskytujících služby v EU
