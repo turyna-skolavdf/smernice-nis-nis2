@@ -2,10 +2,10 @@
 NIS je směrnice vytvořená evropskou unií, jejíž cílem je zajistit
 společnou vysokou míru bezpečnosti na úrovní sítí a informačních systémů
 napříč všemi členskými státy v organizacích. 
-- [Subjekty podřízené směrnicí NIS a NIS 2](#subjekty-podrizene-smernici-nis-a-nis-2)
-- [Původní verze NIS](#puvodni-verze-nis)
+- [Subjekty podřízené směrnicí NIS a NIS 2](#subjekty-podřízené-směrnicí-nis-a-nis-2)
+- [Původní verze NIS](#původní-verze-nis)
 - [NIS 2](#nis-2)
-- [Srovnání NIS a NIS 2](#srovnani-nis-a-nis-2)
+- [Srovnání NIS a NIS 2](#srovnání-nis-a-nis-2)
 
 ## Subjekty podřízené směrnicí NIS a NIS 2
 - Operátorů základních služeb (OES)
